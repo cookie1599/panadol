@@ -1,0 +1,17 @@
+{
+  "name": "skinker-sasa",
+  "version": "0.0.1",
+  "description": "Aku bot",
+  "main": "express.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "superagent": "^5.2.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "AGPL-3.0"
+}
